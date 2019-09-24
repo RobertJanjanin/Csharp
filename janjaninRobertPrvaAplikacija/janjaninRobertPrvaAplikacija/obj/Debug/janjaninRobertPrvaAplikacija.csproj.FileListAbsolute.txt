@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\janjaninRobertPrvaAplikacija\janjaninRobertPrvaAplikacija\bin\Debug\janjaninRobertPrvaAplikacija.exe.config
+C:\Users\3.D\source\repos\janjaninRobertPrvaAplikacija\janjaninRobertPrvaAplikacija\bin\Debug\janjaninRobertPrvaAplikacija.exe
+C:\Users\3.D\source\repos\janjaninRobertPrvaAplikacija\janjaninRobertPrvaAplikacija\bin\Debug\janjaninRobertPrvaAplikacija.pdb
+C:\Users\3.D\source\repos\janjaninRobertPrvaAplikacija\janjaninRobertPrvaAplikacija\obj\Debug\janjaninRobertPrvaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\janjaninRobertPrvaAplikacija\janjaninRobertPrvaAplikacija\obj\Debug\janjaninRobertPrvaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\janjaninRobertPrvaAplikacija\janjaninRobertPrvaAplikacija\obj\Debug\janjaninRobertPrvaAplikacija.exe
+C:\Users\3.D\source\repos\janjaninRobertPrvaAplikacija\janjaninRobertPrvaAplikacija\obj\Debug\janjaninRobertPrvaAplikacija.pdb
