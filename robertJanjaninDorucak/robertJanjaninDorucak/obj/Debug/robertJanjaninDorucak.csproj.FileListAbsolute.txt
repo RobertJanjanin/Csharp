@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\bin\Debug\robertJanjaninDorucak.exe.config
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\bin\Debug\robertJanjaninDorucak.exe
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\bin\Debug\robertJanjaninDorucak.pdb
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\obj\Debug\robertJanjaninDorucak.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\obj\Debug\robertJanjaninDorucak.Form1.resources
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\obj\Debug\robertJanjaninDorucak.Properties.Resources.resources
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\obj\Debug\robertJanjaninDorucak.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\obj\Debug\robertJanjaninDorucak.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\obj\Debug\robertJanjaninDorucak.exe
+C:\Users\3.D\source\repos\robertJanjaninDorucak\robertJanjaninDorucak\obj\Debug\robertJanjaninDorucak.pdb
